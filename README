@@ -1,0 +1,5 @@
+# iOS Latex
+
+Easily recognise latex from image using mathpix api. Provides following functionality:
+* Screen shot + return latex in clipboard
+* Create a canvas & recognise handwriting
